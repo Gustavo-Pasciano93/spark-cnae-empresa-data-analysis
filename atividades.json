@@ -1,0 +1,38 @@
+[
+   {
+      "cnae": "4100",
+      "descricao_atividade": "Construção de edifícios"
+   },
+   {
+      "cnae": "1071",
+      "descricao_atividade": "Fabricação de produtos de padaria"
+   },
+   {
+      "cnae": "4930",
+      "descricao_atividade": "Transporte rodoviário de cargas"
+   },
+   {
+      "cnae": "4712",
+      "descricao_atividade": "Comércio varejista em geral"
+   },
+   {
+      "cnae": "6201",
+      "descricao_atividade": "Desenvolvimento de programas de computador"
+   },
+   {
+      "cnae": "4711",
+      "descricao_atividade": "Comércio varejista em supermercados"
+   },
+   {
+      "cnae": "5610",
+      "descricao_atividade": "Restaurantes e similares"
+   },
+   {
+      "cnae": "7020",
+      "descricao_atividade": "Consultoria em gestão empresarial"
+   },
+   {
+      "cnae": "1623",
+      "descricao_atividade": "Fabricação de madeira e derivados"
+   }
+]
